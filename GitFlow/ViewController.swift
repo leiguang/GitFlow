@@ -16,11 +16,11 @@ class ViewController: UIViewController {
         // dev 1
         // dev 2
         // dev 3
-        // feature-1 1
-        // feature-1 2
-        // feature-1 3
-        // feature-1 4
-        // feature-1 5
+        // feature 1
+        // feature 2
+        // feature 3
+        // feature 4
+        // feature 5
     }
 
 }
