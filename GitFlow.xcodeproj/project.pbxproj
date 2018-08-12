@@ -13,6 +13,7 @@
 		9AC3ABD0211F2B4E001D02E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3ABCF211F2B4E001D02E7 /* Assets.xcassets */; };
 		9AC3ABD3211F2B4E001D02E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AC3ABD1211F2B4E001D02E7 /* LaunchScreen.storyboard */; };
 		9AC3ABDE2120387D001D02E7 /* test-gitignore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC3ABDD2120387D001D02E7 /* test-gitignore.swift */; };
+		9AC3ABE0212043D7001D02E7 /* test-gitignore2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC3ABDF212043D7001D02E7 /* test-gitignore2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9AC3ABD2211F2B4E001D02E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9AC3ABD4211F2B4E001D02E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9AC3ABDD2120387D001D02E7 /* test-gitignore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "test-gitignore.swift"; sourceTree = "<group>"; };
+		9AC3ABDF212043D7001D02E7 /* test-gitignore2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "test-gitignore2.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				9AC3ABC8211F2B4D001D02E7 /* AppDelegate.swift */,
 				9AC3ABCA211F2B4D001D02E7 /* ViewController.swift */,
 				9AC3ABDD2120387D001D02E7 /* test-gitignore.swift */,
+				9AC3ABDF212043D7001D02E7 /* test-gitignore2.swift */,
 				9AC3ABCC211F2B4D001D02E7 /* Main.storyboard */,
 				9AC3ABCF211F2B4E001D02E7 /* Assets.xcassets */,
 				9AC3ABD1211F2B4E001D02E7 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				9AC3ABDE2120387D001D02E7 /* test-gitignore.swift in Sources */,
 				9AC3ABCB211F2B4D001D02E7 /* ViewController.swift in Sources */,
 				9AC3ABC9211F2B4D001D02E7 /* AppDelegate.swift in Sources */,
+				9AC3ABE0212043D7001D02E7 /* test-gitignore2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
