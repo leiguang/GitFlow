@@ -8,5 +8,3 @@
 4. rebase 变基，不仅可以将分支merge后 的提交记录整合为一条线性提交历史， 带参数的 rebase -i 可以将单条分支的多条commit记录的文件变更合并为一条（对应于sourcetree上的交互式变基）。 
       在sourcetree上，若要将feature分支的更改 变基到dev上，需要先checkout到dev，然后在feature上 右击 -> 将当前变基变更到feature。 
 5. master上可以保留所有dev的提交记录。
-
-by manito
