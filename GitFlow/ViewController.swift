@@ -34,6 +34,7 @@ class ViewController: UIViewController {
         // test-rebase 1
         // test-rebase 2
         // test-rebase 3
+        // test-rebase 4
     }
 
 }
