@@ -1,6 +1,12 @@
 # [GitFlow](https://github.com/leiguang/GitFlow)
 
 
+### 参考：
+1. [聪神](https://github.com/ManitoYu) 的面对面指点
+2. [my-git](https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md)
+3. [3.6 Git 分支 - 变基](https://git-scm.com/book/zh/v2/Git-分支-变基)
+...
+
 ### Note:
 1. revert 提交回滚，回滚 某个提交节点所做的文件更改，并不会删除之前的提交记录，而是在当前基础上产生一个新的commit。注意！！！只会回滚该节点的提交更改。
 2. reset 重置，重置到某个提交节点，中间的提交记录都会被删除，有三种选择，soft - 相当于恢复到add状态、mix - 相当于恢复到stash状态、hard - 丢掉所有改变。
