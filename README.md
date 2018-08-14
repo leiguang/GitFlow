@@ -13,5 +13,5 @@
 3. cherry pick 遴选，只会合并 该次commit所做的更改，该次commit之前的 commit记录 所做的修改并不会被合并。
 4. rebase [变基](https://git-scm.com/book/zh/v2/Git-分支-变基)，遵守一条金科玉律：“不要对在你的仓库外有副本的分支执行变基”。 
       在sourcetree上，若要将feature分支的更改 合并到dev上，需要先checkout到dev，然后在feature上 右击 -> 将当前变基变更到feature。 
-5. 将dev合到master时，可以不需要做变基操作，master上可以保留dev所有的提交记录。
+5. 将dev合到master时，可以不需要做变基操作，master上保留dev所有的提交记录也是ok的。
 6. hotfix，从master上checkout出hotfix，然fix完毕后合并回master，然后把master上的修改合并回dev。（hotfix和master相关联，master和dev相关联）
