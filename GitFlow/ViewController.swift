@@ -32,6 +32,7 @@ class ViewController: UIViewController {
         // hotfix 1
         // dev 5
         // test-rebase 1
+        // test-rebase 2
     }
 
 }
